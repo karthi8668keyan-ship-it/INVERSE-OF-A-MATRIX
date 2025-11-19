@@ -27,4 +27,3 @@ print(b)
 <img width="1261" height="814" alt="Screenshot 2025-11-19 134503" src="https://github.com/user-attachments/assets/fd8910b8-208f-4455-8e30-6695bec210cd" />
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
-
